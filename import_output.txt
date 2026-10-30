@@ -1,0 +1,7 @@
+Loading Excel file: /var/www/html/surep/FCT_Kuje_CCTData_Oct2013.xls
+Importing beneficiaries...
+State ID: 7, LGA ID: 453, PHC ID: 1
+Imported 100 beneficiaries...
+✓ Successfully imported 126 beneficiaries
+✓ Created 126 activity records
+⚠ Skipped 1875 rows (empty or invalid data)
